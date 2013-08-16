@@ -1,0 +1,2 @@
+defmodule RssPoll do
+end
