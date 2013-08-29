@@ -1,3 +1,3 @@
-# RssPoll
+# ExRSS
 
-** TODO: Add description **
+Elixir RSS consumption server
